@@ -23,6 +23,7 @@ Welcome to What's Cooking, a website modeled after popular cooking sites such as
 # Contributors:
  - Florenzo Bauer - github.com/FlorenzoBauer
  - Matt Garcia - matt@garcia.dev
+ - Eric Batiste - https://github.com/ericbatiste
 
 
 # Reflection:
