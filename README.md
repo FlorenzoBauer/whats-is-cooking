@@ -36,14 +36,13 @@ You can go to this link and download the repository for the server.
 
 [Server Link](https://github.com/FlorenzoBauer/whats-cookin-api)
 
-```
 In terminal :
+```
 npm install
 npm start
-
 ```
 The server should be up and running and the website.
 
 # Reflection:
 
-Our biggest obstacle was using JS Promises to collect data from an API using .fetch(). If you're doing this for the first time in a proper app, it's a little more difficult than it seems. Getting this figured out was a big win. Getting all the tests figured out and keeping files organized also kept us busy.
+Our biggest obstacle was using JS Promises to collect data from an API using .fetch(). If you're doing this for the first time in a proper app, it's a little more difficult than it seems. Getting this figured out was a big win. Getting all the tests figured out and keeping files organized, which also kept us busy.
