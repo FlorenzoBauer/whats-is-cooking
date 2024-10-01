@@ -1,21 +1,25 @@
+<h1 align="center">
+  What's Cooking
+</h1>
+
 <a name="readme-top"></a>
-# Preview
+## Preview
 
 <img src="https://github.com/user-attachments/assets/30552eea-c39c-49ac-b6d0-eb97f5e353e2" width=1080></img>
 
 
-# Overview
+## Overview
 Welcome to What's Cooking, a website modeled after popular cooking sites such as Allrecipes, NYTCooking, etc.  The goal of this project was to work together as a team to build a website that utilizes the fetch API, has a robust testing suite for data-oriented functions, and provides a clean user experience.
 
-# Technologies
+## Technologies
  [![JavaScript][JavaScript]][JavaScript-url] [![HTML5][HTML5]][HTML5-url] [![CSS][CSS]][CSS-url]  [![Node][Node]][Node-url] 
 
-# Contributors:
+## Contributors:
  - Florenzo Bauer - [![LinkedIn][LinkedIn]][LinkedIn-url] [![GitHub][GitHub]][GitHub-url]
  - Matt Garcia - [![LinkedIn 2][LinkedIn 2]][LinkedIn 2-url] [![GitHub 2][GitHub 2]][GitHub 2-url]
  - Eric Batiste - [![LinkedIn 3][LinkedIn 3]][LinkedIn 3-url] [![GitHub 3][GitHub 3]][GitHub 3-url]
 
-# Installation
+## Installation
 ### Prerequisites 
 - Node.js 
 Fork and Clone the Repo. Then navigate to the file and in terminal: 
@@ -38,10 +42,6 @@ npm install
 node server.js
 ```
 The server should be up and running and the website.
-
-# Reflection:
-
-Our biggest obstacle was using JS Promises to collect data from an API using .fetch(). If you're doing this for the first time in a proper app, it's a little more difficult than it seems. Getting this figured out was a big win. Getting all the tests figured out and keeping files organized kept us busy.
 
 ---
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
