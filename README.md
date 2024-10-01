@@ -22,6 +22,8 @@ Fork and Clone the Repo. Then navigate to the file and in terminal:
 
 ```
 npm install
+```
+```
 npm start
 ```
 You can go to this link and fork and clone the repository for the server.
@@ -31,7 +33,9 @@ You can go to this link and fork and clone the repository for the server.
 In terminal :
 ```
 npm install
-npm start
+```
+```
+node server.js
 ```
 The server should be up and running and the website.
 
